@@ -20,9 +20,6 @@ nav_order: 1
 
 ## held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
 
-## [Click here to get free access rights to the proceedings](https://ceur-ws.org/Vol-3385/)
-
-
 
 <p align="center">
 <a>
