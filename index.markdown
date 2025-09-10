@@ -8,6 +8,14 @@ title: Home
 nav_order: 1
 ---
 
+<style>
+  /* Hide the page title on this page only (Minima) */
+  .page-heading { display: none; }
+  /* (If your layout renders h1 as .post-title, cover that too) */
+  .post-title { display: none; }
+</style>
+
+
 # First International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
 ## held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
