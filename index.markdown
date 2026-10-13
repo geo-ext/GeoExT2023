@@ -18,7 +18,7 @@ nav_order: 1
 
 # First International Workshop on Geographic Information Extraction from Texts (GeoExT)
 
-## held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
+## was held at the [45th European Conference on Information Retrieval (ECIR 2023)](https://ecir2023.org/) in Dublin, April 2, 2023
 
 
 <p align="center">
